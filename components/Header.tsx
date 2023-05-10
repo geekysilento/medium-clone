@@ -21,9 +21,9 @@ function Header() {
             </div>
         </div>
     
-        <div className="flex items-center text-green-500 space-x-2">
-            <h3>Sign In</h3>
-            <h3 className=" border px-4 py-1 rounded-full border-green-600">Get Started</h3>
+        <div className="flex items-center text-green-500 space-x-2 ">
+            <h3 className="cursor-pointer">Sign In</h3>
+            <h3 className=" cursor-pointer border px-4 py-1 rounded-full border-green-600">Get Started</h3>
 
         </div>
     </header>
